@@ -2,7 +2,7 @@ package service
 
 import (
 	"context"
-	"github.com/OpenCal-FYDP/CalendarEventManagement/rpc"
+	"github.com/OpenCal-FYDP/EmailNotification/rpc"
 )
 
 type EmailNotificationService struct{}

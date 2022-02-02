@@ -1,4 +1,4 @@
-module github.com/OpenCal-FYDP/CalendarEventManagement
+module github.com/OpenCal-FYDP/EmailNotification
 
 go 1.17
 
